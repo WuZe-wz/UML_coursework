@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5a6a5e4-0dfd-41e2-bc14-68be4250d5dd" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lS7RHZaigyWn8J9I3usOQn1Lr4" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\w1396\IdeaProjects\UML大作业202012\static" />
+      <recent name="C:\Users\w1396\IdeaProjects\UML大作业202012" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\w1396\IdeaProjects\UML大作业202012\src\main\resources\static" />
+      <recent name="C:\Users\w1396\IdeaProjects\UML大作业202012\src\main\resources\static\js" />
+      <recent name="C:\Users\w1396\IdeaProjects\UML大作业202012\src\main\resources\static\css" />
+      <recent name="C:\Users\w1396\IdeaProjects\UML大作业202012\src\main\resources\static\html" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a6a5e4-0dfd-41e2-bc14-68be4250d5dd" name="默认更改列表" comment="" />
+      <created>1607578629957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607578629957</updated>
+      <workItem from="1607578634744" duration="4684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1266" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607585953275">
+      <screen x="0" y="0" width="2048" height="834" />
+    </state>
+    <state x="1266" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1042/2560.0.1920.1050/0.0.2048.834@0.0.2048.834" timestamp="1607585953275" />
+    <state x="805" y="172" key="FileChooserDialogImpl" timestamp="1607579013060">
+      <screen x="0" y="0" width="2048" height="834" />
+    </state>
+    <state x="805" y="172" key="FileChooserDialogImpl/-1920.0.1920.1042/2560.0.1920.1050/0.0.2048.834@0.0.2048.834" timestamp="1607579013060" />
+    <state x="3218" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1607578636057">
+      <screen x="2560" y="0" width="1920" height="1050" />
+    </state>
+    <state x="3218" y="349" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1042/2560.0.1920.1050/0.0.2048.834@2560.0.1920.1050" timestamp="1607578636057" />
+  </component>
+</project>
