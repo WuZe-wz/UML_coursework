@@ -1,2 +1,12 @@
 UML实训-新东莞培训机构教学管理系统
-designed by 20201210
+---
+v1.0
+designedBy:吴泽
+designTime:20201210
+Content:"去除了不需要的页面，创建培训师管理页面admin-add系列"
+---
+v1.2
+updateBy:冯学煜
+updateTime:20201211
+updateContent:"增加了课程管理与培训班管理页面admin-course(class)-add系列"
+---
